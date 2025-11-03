@@ -19,6 +19,8 @@
             <Label text="CSC325-SW Engineering Student: check out the console window for the output messages..." />
                 <TextField fx:id="nameTextField" promptText="name" />
                 <TextField fx:id="ageTextField" promptText="age" />
+                <TextField fx:id="phoneTextField" promptText="Phone number"/>
+
                 <HBox alignment="TOP_CENTER" prefHeight="55.0" prefWidth="518.0" spacing="10.0">
                     <children>
                         <Button fx:id="readButton" mnemonicParsing="false" onAction="#readButtonClicked" prefHeight="30.0" prefWidth="80.0" text="Read" />

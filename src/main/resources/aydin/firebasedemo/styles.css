@@ -1,0 +1,14 @@
+.root {
+    -fx-font-family: "Segoe UI";
+    -fx-background-color: linear-gradient(to bottom right, #4A148C, #12005E);
+}
+
+.button {
+    -fx-background-radius: 6;
+    -fx-text-fill: white;
+    -fx-background-color: #7E57C2;
+    -fx-font-weight: bold;
+}
+.text-field {
+    -fx-background-radius: 4;
+}
